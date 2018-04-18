@@ -1,0 +1,6 @@
+!!assembly
+family: some family
+orgId: some org
+types:
+- name: name@abc
+  type: String
